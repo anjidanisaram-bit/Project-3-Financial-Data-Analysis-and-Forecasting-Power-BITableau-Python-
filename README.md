@@ -28,6 +28,7 @@ PostgreSQL was used to store and analyze the processed financial data using SQL 
 ## Dataset Information
 
 - **Dataset Name:** NIFTY 50 Historical Stock Market Data
+- **Data sources:** https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 - **Date Range:** 1 January 2000 – 30 April 2021
 - **Combined Dataset:** 235,192 rows and 16 original columns before feature engineering.
 - **Format:** CSV files provided in a ZIP archive.

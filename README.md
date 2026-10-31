@@ -232,6 +232,8 @@ Power BI was used to create an interactive dashboard using the processed financi
 
 The dashboard contains two pages.
 
+https://drive.google.com/file/d/1DbvbM1jfDFdGsfvVJDQtyMOnLQOikm0I/view?usp=drive_link
+
 ### Page 1: NIFTY 50 Stock Performance
 
 Key performance indicators:
